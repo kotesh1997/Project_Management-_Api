@@ -1,0 +1,120 @@
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.deps.json
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\bin\Debug\net5.0\ref\CMS.Models.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.AssemblyReference.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfoInputs.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfo.cs
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.CoreCompileInputs.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\obj\Debug\net5.0\ref\CMS.Models.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.deps.json
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\ref\CMS.Models.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.AssemblyReference.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfoInputs.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfo.cs
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.CoreCompileInputs.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\ref\CMS.Models.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.deps.json
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\bin\Debug\net5.0\ref\CMS.Models.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.AssemblyReference.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfoInputs.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfo.cs
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.CoreCompileInputs.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\obj\Debug\net5.0\ref\CMS.Models.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.deps.json
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\ref\CMS.Models.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.AssemblyReference.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfoInputs.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfo.cs
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.CoreCompileInputs.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\ref\CMS.Models.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.deps.json
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\ref\CMS.Models.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfoInputs.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfo.cs
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.CoreCompileInputs.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\ref\CMS.Models.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.AssemblyReference.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.deps.json
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\ref\CMS.Models.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\bin\Debug\net5.0\CMS.Models.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.AssemblyReference.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfoInputs.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfo.cs
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.CoreCompileInputs.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\ref\CMS.Models.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Models\obj\Debug\net5.0\CMS.Models.pdb
+D:\cmsapi\CMS.Models\bin\Debug\net5.0\CMS.Models.deps.json
+D:\cmsapi\CMS.Models\bin\Debug\net5.0\CMS.Models.dll
+D:\cmsapi\CMS.Models\bin\Debug\net5.0\ref\CMS.Models.dll
+D:\cmsapi\CMS.Models\bin\Debug\net5.0\CMS.Models.pdb
+D:\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.AssemblyReference.cache
+D:\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfoInputs.cache
+D:\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfo.cs
+D:\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.CoreCompileInputs.cache
+D:\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.dll
+D:\cmsapi\CMS.Models\obj\Debug\net5.0\ref\CMS.Models.dll
+D:\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.pdb
+D:\Rheumatology\cmsapi\CMS.Models\bin\Debug\net5.0\CMS.Models.deps.json
+D:\Rheumatology\cmsapi\CMS.Models\bin\Debug\net5.0\CMS.Models.dll
+D:\Rheumatology\cmsapi\CMS.Models\bin\Debug\net5.0\ref\CMS.Models.dll
+D:\Rheumatology\cmsapi\CMS.Models\bin\Debug\net5.0\CMS.Models.pdb
+D:\Rheumatology\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rheumatology\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfoInputs.cache
+D:\Rheumatology\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfo.cs
+D:\Rheumatology\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.CoreCompileInputs.cache
+D:\Rheumatology\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.dll
+D:\Rheumatology\cmsapi\CMS.Models\obj\Debug\net5.0\ref\CMS.Models.dll
+D:\Rheumatology\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.pdb
+D:\Rheumatology\cmsapi\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.AssemblyReference.cache
+D:\adnan\CMS_Api\CMS.Models\bin\Debug\net5.0\CMS.Models.deps.json
+D:\adnan\CMS_Api\CMS.Models\bin\Debug\net5.0\CMS.Models.dll
+D:\adnan\CMS_Api\CMS.Models\bin\Debug\net5.0\CMS.Models.pdb
+D:\adnan\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\adnan\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfoInputs.cache
+D:\adnan\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfo.cs
+D:\adnan\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.CoreCompileInputs.cache
+D:\adnan\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.dll
+D:\adnan\CMS_Api\CMS.Models\obj\Debug\net5.0\ref\CMS.Models.dll
+D:\adnan\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.pdb
+D:\adnan\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.AssemblyReference.cache
+D:\adnan\CMS_Api\CMS.Models\obj\Debug\net5.0\refint\CMS.Models.dll
+F:\projects\CMS_Api\CMS.Models\bin\Debug\net5.0\CMS.Models.deps.json
+F:\projects\CMS_Api\CMS.Models\bin\Debug\net5.0\CMS.Models.dll
+F:\projects\CMS_Api\CMS.Models\bin\Debug\net5.0\CMS.Models.pdb
+F:\projects\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.AssemblyReference.cache
+F:\projects\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfoInputs.cache
+F:\projects\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.AssemblyInfo.cs
+F:\projects\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.csproj.CoreCompileInputs.cache
+F:\projects\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.dll
+F:\projects\CMS_Api\CMS.Models\obj\Debug\net5.0\refint\CMS.Models.dll
+F:\projects\CMS_Api\CMS.Models\obj\Debug\net5.0\CMS.Models.pdb
+F:\projects\CMS_Api\CMS.Models\obj\Debug\net5.0\ref\CMS.Models.dll

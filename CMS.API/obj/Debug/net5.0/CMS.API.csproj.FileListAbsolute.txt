@@ -1,0 +1,893 @@
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.exe
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\SendGrid.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.pdb
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.pdb
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.AssemblyReference.cache
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+C:\Users\pabba\Documents\GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.json
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.exe
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Dapper.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\SendGrid.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.AssemblyReference.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.json
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.exe
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Dapper.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\SendGrid.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.AssemblyReference.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.json
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.exe
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Dapper.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\SendGrid.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.AssemblyReference.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.json
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.StaticWebAssets.xml
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.exe
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Dapper.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\SendGrid.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.AssemblyReference.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.json
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.exe
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Dapper.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\SendGrid.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.AssemblyReference.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Humanizer.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\appsettings.json
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.exe
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Dapper.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Humanizer.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\SendGrid.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Models.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Repository.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.AssemblyReference.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+D:\cmsapi\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+D:\cmsapi\CMS.API\bin\Debug\net5.0\appsettings.json
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.exe
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Dapper.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Grpc.Core.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Humanizer.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\SendGrid.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Models.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Repository.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Models.pdb
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Repository.pdb
+D:\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.csproj.AssemblyReference.cache
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\cmsapi\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+D:\cmsapi\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+D:\cmsapi\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.dll
+D:\cmsapi\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+D:\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\appsettings.json
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.exe
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Dapper.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Grpc.Core.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Humanizer.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\SendGrid.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Models.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Repository.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Models.pdb
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Repository.pdb
+D:\Rheumatology\cmsapi\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.csproj.AssemblyReference.cache
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.dll
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+D:\Rheumatology\cmsapi\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\appsettings.json
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.API.exe
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.API.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Dapper.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Grpc.Core.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Humanizer.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\SendGrid.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Serilog.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\StarkbankEcdsa.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.Models.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.Repository.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.Models.pdb
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.Repository.pdb
+D:\adnan\CMS_Api\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.csproj.AssemblyReference.cache
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.dll
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Pack.cache
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\staticwebassets\msbuild.CMS.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\staticwebassets\msbuild.build.CMS.API.props
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CMS.API.props
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CMS.API.props
+D:\adnan\CMS_Api\CMS.API\obj\Debug\net5.0\refint\CMS.API.dll

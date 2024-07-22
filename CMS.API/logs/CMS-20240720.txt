@@ -1,0 +1,881 @@
+2024-07-20T01:28:05.9298363+05:30 80000002-0000-f500-b63f-84710c7967bb [ERR] Exception at Login Method: System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at CMS.Repository.PatientsAppointmentsRepository.<>c.<GetAllAppointments1>b__7_0(AppointmentDetails appointment) in E:\Durga projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 107
+   at System.Linq.Enumerable.WhereListIterator`1.MoveNext()
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source, Func`2 predicate)
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments1() in E:\Durga projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 108
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments1() in E:\Durga projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 62 (687541ba)
+2024-07-20T01:28:08.3024587+05:30 80000023-0000-f900-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'dbo.DocsCrud'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.DocsCrud(List`1 docs) in E:\Durga projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 338
+   at CMS.API.Controllers.PatientsAppointmentsController.DocsCrud(List`1 docs) in E:\Durga projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 0
+ClientConnectionId:6a460ab7-eeff-4e7c-ad04-851d845b42e0
+Error Number:2812,State:62,Class:16 (e793a2f5)
+2024-07-20T01:28:08.3050492+05:30 80000060-0002-fe00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'dbo.VitalsCRUD'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.VitalsCRUD(List`1 vitals) in E:\Durga projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 317
+   at CMS.API.Controllers.PatientsAppointmentsController.VitalsCRUD(List`1 vitals) in E:\Durga projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 0
+ClientConnectionId:6a460ab7-eeff-4e7c-ad04-851d845b42e0
+Error Number:2812,State:62,Class:16 (2874deaa)
+2024-07-20T01:28:08.3246786+05:30 80000002-0000-ea00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'dbo.VisitReason_Crud'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.VisitReason_Crud(List`1 visitReason) in E:\Durga projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 354
+   at CMS.API.Controllers.PatientsAppointmentsController.VisitReason_Crud(List`1 visitReason) in E:\Durga projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 0
+ClientConnectionId:6a460ab7-eeff-4e7c-ad04-851d845b42e0
+Error Number:2812,State:62,Class:16 (ec3fef94)
+2024-07-20T01:28:08.3588906+05:30 8000003b-0000-fb00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'dbo.ComplaintsCrud'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.ComplaintsCrud(List`1 complaints) in E:\Durga projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 382
+   at CMS.API.Controllers.PatientsAppointmentsController.ComplaintsCrud(List`1 complaints) in E:\Durga projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 0
+ClientConnectionId:57f3afcf-9731-4f82-9546-989c555eafed
+Error Number:2812,State:62,Class:16 (977e803c)
+2024-07-20T09:52:43.6941240+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T09:52:43.7443072+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T09:52:43.7470033+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T09:54:40.7056224+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T09:54:40.7295153+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T09:54:40.7457287+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T09:55:39.2806785+05:30 80000002-0003-f900-b63f-84710c7967bb [ERR] Exception at GetProjectsById Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'dbo.SP_Get_ProjectById'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.GetProjecstById(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 43
+   at CMS.API.Controllers.ServiceController.GetProjectsById(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 61
+ClientConnectionId:6ead30b3-f0fa-420f-bd38-71fb2571140a
+Error Number:2812,State:62,Class:16 (16059a94)
+2024-07-20T09:58:11.8452301+05:30 8000003f-0001-f600-b63f-84710c7967bb [ERR] Exception at GetProjectsById Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'dbo.SP_Get_ProjectById'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.GetProjecstById(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 43
+   at CMS.API.Controllers.ServiceController.GetProjectsById(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 61
+ClientConnectionId:6ead30b3-f0fa-420f-bd38-71fb2571140a
+Error Number:2812,State:62,Class:16 (16059a94)
+2024-07-20T10:03:09.9998263+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T10:03:10.0208880+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T10:03:10.0249550+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T10:03:35.0593439+05:30 8000006b-0002-fa00-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlClient.SqlException (0x80131904): A project with the same code already exists.
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 68
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76
+ClientConnectionId:7709a678-134f-4239-ad51-390021273995
+Error Number:50000,State:1,Class:16 (d61b73f9)
+2024-07-20T10:15:42.7532256+05:30 8000002d-0001-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlClient.SqlException (0x80131904): A project with the same Code sx21357c already exists.
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 68
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76
+ClientConnectionId:93cc18d5-7519-496a-baa0-2077c53eb326
+Error Number:50000,State:1,Class:16 (7e6c2c70)
+2024-07-20T10:17:22.6777499+05:30 80000018-0003-fa00-b63f-84710c7967bb [ERR] Exception at DeleteProject Method: System.Collections.Generic.KeyNotFoundException: The given key 'result' was not present in the dictionary.
+   at CMS.Repository.ServiceRepository.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 113
+   at CMS.API.Controllers.ServiceController.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 107 (6981f023)
+2024-07-20T10:18:17.7104178+05:30 80000071-0002-fa00-b63f-84710c7967bb [ERR] Exception at DeleteProject Method: System.Collections.Generic.KeyNotFoundException: The given key 'result' was not present in the dictionary.
+   at CMS.Repository.ServiceRepository.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 113
+   at CMS.API.Controllers.ServiceController.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 107 (6981f023)
+2024-07-20T10:21:56.6624502+05:30 8000003f-0002-fb00-b63f-84710c7967bb [ERR] Exception at DeleteProject Method: System.Collections.Generic.KeyNotFoundException: The given key 'result' was not present in the dictionary.
+   at CMS.Repository.ServiceRepository.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 113
+   at CMS.API.Controllers.ServiceController.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 107 (6981f023)
+2024-07-20T10:23:26.5542521+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T10:23:26.5681521+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T10:23:26.5934849+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T10:30:20.4826399+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T10:30:20.4937018+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T10:30:20.4973289+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T10:31:42.4697290+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T10:31:42.4797027+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T10:31:42.4861421+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T10:39:29.4294418+05:30 80000023-0000-fd00-b63f-84710c7967bb [ERR] Exception at DeleteProject Method: System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'SP_Delete_Project' expects parameter '@Message', which was not supplied.
+   at CMS.Repository.ServiceRepository.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 114
+   at CMS.API.Controllers.ServiceController.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 107
+ClientConnectionId:c594673e-434e-408e-ae5b-302ea1def794
+Error Number:201,State:4,Class:16 (c1b38f32)
+2024-07-20T10:41:04.2879167+05:30 80000025-0000-fd00-b63f-84710c7967bb [ERR] Exception at DeleteProject Method: System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'SP_Delete_Project' expects parameter '@ProjectID', which was not supplied.
+   at CMS.Repository.ServiceRepository.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 114
+   at CMS.API.Controllers.ServiceController.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 107
+ClientConnectionId:e8aeb154-8f31-45f9-9756-ce157e987655
+Error Number:201,State:4,Class:16 (35a5d319)
+2024-07-20T10:43:25.5566361+05:30 80000027-0000-fd00-b63f-84710c7967bb [ERR] Exception at DeleteProject Method: System.Data.SqlClient.SqlException (0x80131904): Project not found or status is not false.
+   at CMS.Repository.ServiceRepository.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 114
+   at CMS.API.Controllers.ServiceController.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 107
+ClientConnectionId:e8aeb154-8f31-45f9-9756-ce157e987655
+Error Number:50000,State:1,Class:16 (831c5a15)
+2024-07-20T10:57:37.7596947+05:30 80000069-0000-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T10:57:51.4625585+05:30 8000003d-0003-fb00-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T10:59:05.2883939+05:30 80000080-0001-fc00-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:08:21.6009752+05:30 80000069-0001-fa00-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:11:06.5123135+05:30 80000072-0000-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:11:17.3217786+05:30 80000076-0000-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:11:29.4241196+05:30 80000078-0000-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:12:36.5129695+05:30 8000007a-0000-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:13:25.0003220+05:30 80000085-0002-fe00-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:14:18.4862073+05:30 80000050-0001-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:14:45.6647051+05:30 80000054-0001-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:14:50.4611756+05:30 80000046-0003-fa00-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:18:24.8815685+05:30 80000083-0000-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:29:36.0383530+05:30 80000085-0000-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76 (8121a6c8)
+2024-07-20T11:46:30.8725224+05:30 8000006b-0001-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'SP_Add_Project' expects parameter '@Status', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76
+ClientConnectionId:69abacdd-083a-4ef6-8c82-b36375969d01
+Error Number:201,State:4,Class:16 (428bb534)
+2024-07-20T11:46:40.6020225+05:30 8000006f-0001-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'SP_Add_Project' expects parameter '@Status', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 62
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 76
+ClientConnectionId:69abacdd-083a-4ef6-8c82-b36375969d01
+Error Number:201,State:4,Class:16 (428bb534)
+2024-07-20T11:47:45.9236130+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T11:47:45.9379514+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T11:47:45.9412104+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T11:48:50.8100912+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T11:48:50.8295275+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T11:48:50.8423877+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T12:08:19.4467842+05:30 8000002a-0001-fb00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.AggregateException: One or more errors occurred. (Could not find stored procedure 'dbo.GetServiceDetailsByDept'.)
+ ---> System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'dbo.GetServiceDetailsByDept'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.ServiceRepository.GetServiceDetailsByDept(ReportRequest reportRequest) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 253
+   at CMS.Repository.ServiceRepository.GetTotalAmount(ReportRequest reportRequest) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 262
+ClientConnectionId:46cda628-59ba-4859-b7ca-02ae9b7bffd0
+Error Number:2812,State:62,Class:16
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo`1.GetMemberAndWriteJson(Object obj, WriteStack& state, Utf8JsonWriter writer)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryWrite(Utf8JsonWriter writer, T value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.TryWrite(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.WriteCore(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.SerializeAsync(Stream utf8Json, T rootValue, CancellationToken cancellationToken, Object rootValueBoxed)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.SerializeAsync(Stream utf8Json, T rootValue, CancellationToken cancellationToken, Object rootValueBoxed)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.SerializeAsync(Stream utf8Json, T rootValue, CancellationToken cancellationToken, Object rootValueBoxed)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-07-20T12:08:19.4469430+05:30 8000006d-0000-fd00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.AggregateException: One or more errors occurred. (Could not find stored procedure 'dbo.SP_Get_PatientReports'.)
+ ---> System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'dbo.SP_Get_PatientReports'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.GetBillingDetailsByDept(ReportRequest reportRequest) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 224
+ClientConnectionId:f62b508f-5929-449d-9247-b27ac90d1983
+Error Number:2812,State:62,Class:16
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo`1.GetMemberAndWriteJson(Object obj, WriteStack& state, Utf8JsonWriter writer)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryWrite(Utf8JsonWriter writer, T value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.TryWrite(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.WriteCore(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.SerializeAsync(Stream utf8Json, T rootValue, CancellationToken cancellationToken, Object rootValueBoxed)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.SerializeAsync(Stream utf8Json, T rootValue, CancellationToken cancellationToken, Object rootValueBoxed)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.SerializeAsync(Stream utf8Json, T rootValue, CancellationToken cancellationToken, Object rootValueBoxed)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-07-20T12:08:19.4520588+05:30 80000090-0001-f800-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.AggregateException: One or more errors occurred. (Could not find stored procedure 'dbo.GetSummarybyDeptWise'.)
+ ---> System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'dbo.GetSummarybyDeptWise'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.GetSummaryByDeptWise(ReportRequest reportRequest) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 239
+ClientConnectionId:f62b508f-5929-449d-9247-b27ac90d1983
+Error Number:2812,State:62,Class:16
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo`1.GetMemberAndWriteJson(Object obj, WriteStack& state, Utf8JsonWriter writer)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryWrite(Utf8JsonWriter writer, T value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.TryWrite(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.WriteCore(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.SerializeAsync(Stream utf8Json, T rootValue, CancellationToken cancellationToken, Object rootValueBoxed)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.SerializeAsync(Stream utf8Json, T rootValue, CancellationToken cancellationToken, Object rootValueBoxed)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.SerializeAsync(Stream utf8Json, T rootValue, CancellationToken cancellationToken, Object rootValueBoxed)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-07-20T12:21:40.1125068+05:30 8000009a-0001-f800-b63f-84710c7967bb [ERR] Exception at DeleteProject Method: System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'SP_Delete_Project' expects parameter '@Message', which was not supplied.
+   at CMS.Repository.ServiceRepository.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 116
+   at CMS.API.Controllers.ServiceController.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 107
+ClientConnectionId:46cda628-59ba-4859-b7ca-02ae9b7bffd0
+Error Number:201,State:4,Class:16 (0bfb4859)
+2024-07-20T12:35:56.9262224+05:30 8000005a-0003-fb00-b63f-84710c7967bb [ERR] Exception at DeleteProject Method: System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'SP_Delete_Project' expects parameter '@Message', which was not supplied.
+   at CMS.Repository.ServiceRepository.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 116
+   at CMS.API.Controllers.ServiceController.DeleteProject(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 107
+ClientConnectionId:46cda628-59ba-4859-b7ca-02ae9b7bffd0
+Error Number:201,State:4,Class:16 (0bfb4859)
+2024-07-20T12:38:52.0943530+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T12:38:52.1081876+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T12:38:52.1142056+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T12:45:06.8120734+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T12:45:06.8274420+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T12:45:06.8318153+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T12:59:49.2320963+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T12:59:49.2461125+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T12:59:49.2541970+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T13:03:53.3737682+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T13:03:53.3902518+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T13:03:53.3954865+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T14:14:54.2021303+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T14:14:54.2223760+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T14:14:54.2263524+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T14:29:21.7552526+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T14:29:21.7858753+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T14:29:21.7904562+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T14:32:10.6527872+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T14:32:10.6725437+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T14:32:10.6802856+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T14:33:00.4351090+05:30 80000025-0002-f900-b63f-84710c7967bb [ERR] Exception at AddProjectTask Method: System.Data.SqlClient.SqlException (0x80131904): Procedure or function SP_Insert_ProjectTask has too many arguments specified.
+   at CMS.Service.Dapperr.Execute(String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 146
+   at CMS.Repository.ServiceRepository.AddProjectTask(ProjectTasks projectTask) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 262
+   at CMS.API.Controllers.ServiceController.AddProjectTask(ProjectTasks projectTask) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 155
+ClientConnectionId:666354d9-f2f8-449b-969b-a8c401195957
+Error Number:8144,State:2,Class:16 (36496f12)
+2024-07-20T14:35:30.2509884+05:30 8000001f-0002-fc00-b63f-84710c7967bb [ERR] Exception at AddProjectTask Method: System.Data.SqlClient.SqlException (0x80131904): Procedure or function SP_Insert_ProjectTask has too many arguments specified.
+   at CMS.Service.Dapperr.Execute(String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 146
+   at CMS.Repository.ServiceRepository.AddProjectTask(ProjectTasks projectTask) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 262
+   at CMS.API.Controllers.ServiceController.AddProjectTask(ProjectTasks projectTask) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 155
+ClientConnectionId:666354d9-f2f8-449b-969b-a8c401195957
+Error Number:8144,State:2,Class:16 (36496f12)
+2024-07-20T14:42:26.9237220+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T14:42:26.9369704+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T14:42:26.9401127+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T14:45:29.5533928+05:30 8000005c-0003-fa00-b63f-84710c7967bb [ERR] Exception at AddProjectTask Method: System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'SP_Insert_ProjectTask' expects parameter '@Id', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProjectTasks(ProjectTasks projectTask) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 259
+   at CMS.API.Controllers.ServiceController.AddProjectTask(ProjectTasks projectTask) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 155
+ClientConnectionId:75427bdd-d5cc-4a4d-8b23-3102d5aea37c
+Error Number:201,State:4,Class:16 (e2977fe3)
+2024-07-20T14:46:57.0953288+05:30 8000004d-0000-f800-b63f-84710c7967bb [ERR] Exception at UpdateProjectTask Method: System.Collections.Generic.KeyNotFoundException: The given key 'result' was not present in the dictionary.
+   at CMS.Service.Dapperr.Execute(String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 146
+   at CMS.Repository.ServiceRepository.UpdateProjectTask(ProjectTasks projectTask) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 277
+   at CMS.API.Controllers.ServiceController.UpdateProjectTask(ProjectTasks projectTask) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 171 (6a993877)
+2024-07-20T14:49:12.2606384+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T14:49:12.2915753+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T14:49:12.3016102+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T14:54:58.3525194+05:30 80000030-0002-f900-b63f-84710c7967bb [ERR] Exception at DeleteProjectTask Method: System.Collections.Generic.KeyNotFoundException: The given key 'result' was not present in the dictionary.
+   at CMS.Service.Dapperr.Execute(String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 146
+   at CMS.Repository.ServiceRepository.DeleteProjectTask(Int32 id) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 295
+   at CMS.API.Controllers.ServiceController.DeleteProjectTask(Int32 id) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 187 (9f33dcf2)
+2024-07-20T14:57:40.3076136+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T14:57:40.3285610+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T14:57:40.3468997+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T15:33:19.4900519+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T15:33:19.5441332+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T15:33:19.5485455+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T15:35:15.6559238+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T15:35:15.6776675+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T15:35:15.6853246+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T17:11:07.4578494+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T17:11:07.4722271+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T17:11:07.4777807+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T17:50:57.2068419+05:30 80000080-0002-f900-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 63
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 77 (2030274f)
+2024-07-20T17:50:57.8152262+05:30 80000082-0002-f900-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 63
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 77 (2030274f)
+2024-07-20T17:50:59.0213798+05:30 800000c5-0001-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 63
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 77 (2030274f)
+2024-07-20T17:50:59.9456947+05:30 80000084-0002-f900-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 63
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 77 (2030274f)
+2024-07-20T17:51:01.0658367+05:30 800000fd-0000-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 63
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 77 (2030274f)
+2024-07-20T17:51:09.7305716+05:30 800000ff-0000-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 63
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 77 (2030274f)
+2024-07-20T17:51:11.4708338+05:30 800000c7-0001-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 63
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 77 (2030274f)
+2024-07-20T17:51:12.5122197+05:30 80000101-0000-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 63
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 77 (2030274f)
+2024-07-20T17:51:13.4343642+05:30 800000c9-0001-f700-b63f-84710c7967bb [ERR] Exception at AddProject Method: System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.Get[T](String sp, DynamicParameters parms, CommandType commandType) in E:\Durga projects\CMS_Api\CMS.Service\Dapper.cs:line 37
+   at CMS.Repository.ServiceRepository.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.Repository\ServiceRepository.cs:line 63
+   at CMS.API.Controllers.ServiceController.AddProject(Projects project) in E:\Durga projects\CMS_Api\CMS.API\Controllers\ServiceController.cs:line 77 (2030274f)
+2024-07-20T19:11:19.6313538+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T19:11:19.6896219+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T19:11:19.6936069+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T20:35:58.8847946+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T20:35:58.9039227+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T20:35:58.9078893+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T23:09:34.1503701+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T23:09:34.2017894+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T23:09:34.2630092+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T23:11:25.5823180+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T23:11:25.6109420+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T23:11:25.6179676+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T23:24:05.3930136+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T23:24:05.4470150+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T23:24:05.4744861+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T23:25:44.9979507+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T23:25:45.0140510+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T23:25:45.0218310+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T23:34:03.4610245+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T23:34:03.5005258+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T23:34:03.5245965+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)
+2024-07-20T23:43:59.9575319+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-20T23:43:59.9812089+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-20T23:43:59.9871450+05:30  [INF] Content root path: "E:\Durga projects\CMS_Api\CMS.API" (b5d60022)

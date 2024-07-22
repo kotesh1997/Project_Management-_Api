@@ -1,0 +1,118 @@
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.deps.json
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\bin\Debug\net5.0\ref\CMS.Service.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.pdb
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfoInputs.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfo.cs
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.CoreCompileInputs.cache
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\obj\Debug\net5.0\ref\CMS.Service.dll
+C:\Ramakrishna GitHub\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.deps.json
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\ref\CMS.Service.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.pdb
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.AssemblyReference.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfoInputs.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfo.cs
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.CoreCompileInputs.cache
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\ref\CMS.Service.dll
+D:\Ramakrishna\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.deps.json
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\bin\Debug\net5.0\ref\CMS.Service.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.pdb
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.AssemblyReference.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfoInputs.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfo.cs
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.CoreCompileInputs.cache
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\obj\Debug\net5.0\ref\CMS.Service.dll
+D:\Ramakrishna\GitHub\CMS\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.deps.json
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\ref\CMS.Service.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.pdb
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.AssemblyReference.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfoInputs.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfo.cs
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.CoreCompileInputs.cache
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\ref\CMS.Service.dll
+E:\CMS\CMS_WebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.deps.json
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\ref\CMS.Service.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfoInputs.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfo.cs
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.CoreCompileInputs.cache
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\ref\CMS.Service.dll
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.pdb
+D:\CMS\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.AssemblyReference.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.deps.json
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\ref\CMS.Service.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\bin\Debug\net5.0\CMS.Service.pdb
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.AssemblyReference.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfoInputs.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfo.cs
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.CoreCompileInputs.cache
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\ref\CMS.Service.dll
+D:\GitHub\cms-api\CMSWebAPI\CMSWebAPI\CMS.Service\obj\Debug\net5.0\CMS.Service.pdb
+D:\cmsapi\CMS.Service\bin\Debug\net5.0\CMS.Service.deps.json
+D:\cmsapi\CMS.Service\bin\Debug\net5.0\CMS.Service.dll
+D:\cmsapi\CMS.Service\bin\Debug\net5.0\ref\CMS.Service.dll
+D:\cmsapi\CMS.Service\bin\Debug\net5.0\CMS.Service.pdb
+D:\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.AssemblyReference.cache
+D:\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfoInputs.cache
+D:\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfo.cs
+D:\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.CoreCompileInputs.cache
+D:\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.dll
+D:\cmsapi\CMS.Service\obj\Debug\net5.0\ref\CMS.Service.dll
+D:\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.pdb
+D:\Rheumatology\cmsapi\CMS.Service\bin\Debug\net5.0\CMS.Service.deps.json
+D:\Rheumatology\cmsapi\CMS.Service\bin\Debug\net5.0\CMS.Service.dll
+D:\Rheumatology\cmsapi\CMS.Service\bin\Debug\net5.0\ref\CMS.Service.dll
+D:\Rheumatology\cmsapi\CMS.Service\bin\Debug\net5.0\CMS.Service.pdb
+D:\Rheumatology\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rheumatology\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfoInputs.cache
+D:\Rheumatology\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfo.cs
+D:\Rheumatology\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.CoreCompileInputs.cache
+D:\Rheumatology\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.dll
+D:\Rheumatology\cmsapi\CMS.Service\obj\Debug\net5.0\ref\CMS.Service.dll
+D:\Rheumatology\cmsapi\CMS.Service\obj\Debug\net5.0\CMS.Service.pdb
+D:\adnan\CMS_Api\CMS.Service\bin\Debug\net5.0\CMS.Service.deps.json
+D:\adnan\CMS_Api\CMS.Service\bin\Debug\net5.0\CMS.Service.dll
+D:\adnan\CMS_Api\CMS.Service\bin\Debug\net5.0\CMS.Service.pdb
+D:\adnan\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\adnan\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfoInputs.cache
+D:\adnan\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfo.cs
+D:\adnan\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.CoreCompileInputs.cache
+D:\adnan\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.dll
+D:\adnan\CMS_Api\CMS.Service\obj\Debug\net5.0\ref\CMS.Service.dll
+D:\adnan\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.pdb
+D:\adnan\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.AssemblyReference.cache
+D:\adnan\CMS_Api\CMS.Service\obj\Debug\net5.0\refint\CMS.Service.dll
+F:\projects\CMS_Api\CMS.Service\bin\Debug\net5.0\CMS.Service.deps.json
+F:\projects\CMS_Api\CMS.Service\bin\Debug\net5.0\CMS.Service.dll
+F:\projects\CMS_Api\CMS.Service\bin\Debug\net5.0\CMS.Service.pdb
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.AssemblyReference.cache
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfoInputs.cache
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.AssemblyInfo.cs
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.csproj.CoreCompileInputs.cache
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.dll
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net5.0\refint\CMS.Service.dll
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net5.0\CMS.Service.pdb
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net5.0\ref\CMS.Service.dll

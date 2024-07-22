@@ -1,0 +1,25 @@
+2024-05-04T12:29:27.0364614+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-05-04T12:29:27.0491783+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-05-04T12:29:27.0525344+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-05-04T13:36:33.2426839+05:30 800000f7-0001-fb00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): Cannot open database "cms-dev" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1082
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments() in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 62
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments() in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 44
+ClientConnectionId:dee56a6e-37bd-4115-a601-6048d87f0004
+Error Number:4060,State:1,Class:11 (7d8f69ab)

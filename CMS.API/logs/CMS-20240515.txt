@@ -1,0 +1,6 @@
+2024-05-15T11:38:11.9833351+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-05-15T11:38:12.0505638+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-05-15T11:38:12.0534629+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-05-15T12:04:37.3226918+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-05-15T12:04:37.3399885+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-05-15T12:04:37.3449706+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)

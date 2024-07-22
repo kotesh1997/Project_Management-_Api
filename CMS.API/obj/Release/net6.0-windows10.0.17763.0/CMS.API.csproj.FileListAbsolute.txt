@@ -1,0 +1,244 @@
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\appsettings.Development.json
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\appsettings.json
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.API.exe
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.API.deps.json
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.API.runtimeconfig.json
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.API.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.API.pdb
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Dapper.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Grpc.Core.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Grpc.Core.Api.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Humanizer.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Data.SqlClient.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.EntityFrameworkCore.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Identity.Client.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IdentityModel.Logging.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IdentityModel.Protocols.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IdentityModel.Tokens.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.OpenApi.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Win32.SystemEvents.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Newtonsoft.Json.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\SendGrid.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Extensions.Logging.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Extensions.Logging.File.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Formatting.Compact.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Sinks.Async.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Sinks.File.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Sinks.RollingFile.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\StarkbankEcdsa.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Configuration.ConfigurationManager.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Data.SqlClient.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Drawing.Common.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.IdentityModel.Tokens.Jwt.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Runtime.Caching.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Security.Cryptography.ProtectedData.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Security.Permissions.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Windows.Extensions.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\sni.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x64\native\sni.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x86\native\sni.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\WinRT.Runtime.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Models.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Repository.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Service.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Models.pdb
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Repository.pdb
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Service.pdb
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.csproj.AssemblyReference.cache
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.AssemblyInfoInputs.cache
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.AssemblyInfo.cs
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.csproj.CoreCompileInputs.cache
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets\msbuild.CMS.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets\msbuild.build.CMS.API.props
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets\msbuild.buildMultiTargeting.CMS.API.props
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets\msbuild.buildTransitive.CMS.API.props
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets.pack.json
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets.build.json
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets.development.json
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\scopedcss\bundle\CMS.API.styles.css
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.csproj.CopyComplete
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.dll
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\refint\CMS.API.dll
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.pdb
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.genruntimeconfig.cache
+F:\projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\ref\CMS.API.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\libman.json
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\EPPlus.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\EPPlus.Interfaces.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\EPPlus.System.Drawing.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.Json.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Primitives.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Formats.Asn1.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Security.Cryptography.Pkcs.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Text.Encoding.CodePages.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Text.Encodings.Web.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Text.Json.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+F:\projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\appsettings.Development.json
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\libman.json
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\appsettings.json
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.API.exe
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.API.deps.json
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.API.runtimeconfig.json
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.API.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.API.pdb
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Dapper.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\EPPlus.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\EPPlus.Interfaces.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\EPPlus.System.Drawing.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Grpc.Core.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Grpc.Core.Api.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Humanizer.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Data.SqlClient.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.EntityFrameworkCore.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Primitives.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Identity.Client.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IdentityModel.Logging.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IdentityModel.Protocols.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IdentityModel.Tokens.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.OpenApi.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Win32.SystemEvents.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Newtonsoft.Json.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\SendGrid.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Extensions.Logging.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Extensions.Logging.File.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Formatting.Compact.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Sinks.Async.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Sinks.File.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Serilog.Sinks.RollingFile.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\StarkbankEcdsa.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Configuration.ConfigurationManager.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Data.SqlClient.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Drawing.Common.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Formats.Asn1.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Runtime.Caching.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Security.Cryptography.Pkcs.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Security.Cryptography.ProtectedData.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Security.Permissions.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Text.Encoding.CodePages.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Text.Encodings.Web.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Text.Json.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\System.Windows.Extensions.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\sni.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x64\native\sni.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x86\native\sni.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\WinRT.Runtime.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Models.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Repository.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Service.dll
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Models.pdb
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Repository.pdb
+E:\Durga projects\CMS_Api\CMS.API\bin\Release\net6.0-windows10.0.17763.0\CMS.Service.pdb
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.csproj.AssemblyReference.cache
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.AssemblyInfoInputs.cache
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.AssemblyInfo.cs
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.csproj.CoreCompileInputs.cache
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets\msbuild.CMS.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets\msbuild.build.CMS.API.props
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets\msbuild.buildMultiTargeting.CMS.API.props
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets\msbuild.buildTransitive.CMS.API.props
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets.pack.json
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets.build.json
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\staticwebassets.development.json
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\scopedcss\bundle\CMS.API.styles.css
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.csproj.CopyComplete
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.dll
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\refint\CMS.API.dll
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.pdb
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\CMS.API.genruntimeconfig.cache
+E:\Durga projects\CMS_Api\CMS.API\obj\Release\net6.0-windows10.0.17763.0\ref\CMS.API.dll

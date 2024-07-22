@@ -1,0 +1,24 @@
+F:\projects\CMS_Api\CMS.Service\bin\Debug\net6.0\CMS.Service.deps.json
+F:\projects\CMS_Api\CMS.Service\bin\Debug\net6.0\CMS.Service.dll
+F:\projects\CMS_Api\CMS.Service\bin\Debug\net6.0\CMS.Service.pdb
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.csproj.AssemblyReference.cache
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.AssemblyInfoInputs.cache
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.AssemblyInfo.cs
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.csproj.CoreCompileInputs.cache
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.dll
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net6.0\refint\CMS.Service.dll
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.pdb
+F:\projects\CMS_Api\CMS.Service\obj\Debug\net6.0\ref\CMS.Service.dll
+E:\Durga projects\CMS_Api\CMS.Service\bin\Debug\net6.0\CMS.Service.deps.json
+E:\Durga projects\CMS_Api\CMS.Service\bin\Debug\net6.0\CMS.Service.dll
+E:\Durga projects\CMS_Api\CMS.Service\bin\Debug\net6.0\CMS.Service.pdb
+E:\Durga projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.csproj.AssemblyReference.cache
+E:\Durga projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Durga projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.AssemblyInfoInputs.cache
+E:\Durga projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.AssemblyInfo.cs
+E:\Durga projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.csproj.CoreCompileInputs.cache
+E:\Durga projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.dll
+E:\Durga projects\CMS_Api\CMS.Service\obj\Debug\net6.0\refint\CMS.Service.dll
+E:\Durga projects\CMS_Api\CMS.Service\obj\Debug\net6.0\CMS.Service.pdb
+E:\Durga projects\CMS_Api\CMS.Service\obj\Debug\net6.0\ref\CMS.Service.dll

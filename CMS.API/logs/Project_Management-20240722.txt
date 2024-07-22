@@ -1,0 +1,6 @@
+2024-07-22T00:41:46.8134555+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-22T00:41:46.8609936+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-22T00:41:46.8650230+05:30  [INF] Content root path: "E:\Durga projects\Project_Management_Api\CMS.API" (b5d60022)
+2024-07-22T18:59:14.4029022+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-07-22T18:59:14.5315371+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-07-22T18:59:14.5380619+05:30  [INF] Content root path: "C:\Users\Durga\Desktop\Project_Management _Api\CMS.API" (b5d60022)

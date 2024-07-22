@@ -1,0 +1,34 @@
+F:\projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Repository.deps.json
+F:\projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Repository.dll
+F:\projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Repository.pdb
+F:\projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Models.dll
+F:\projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Service.dll
+F:\projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Models.pdb
+F:\projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Service.pdb
+F:\projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.AssemblyReference.cache
+F:\projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.AssemblyInfoInputs.cache
+F:\projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.AssemblyInfo.cs
+F:\projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.CoreCompileInputs.cache
+F:\projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.CopyComplete
+F:\projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.dll
+F:\projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\refint\CMS.Repository.dll
+F:\projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.pdb
+F:\projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\ref\CMS.Repository.dll
+E:\Durga projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Repository.deps.json
+E:\Durga projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Repository.dll
+E:\Durga projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Repository.pdb
+E:\Durga projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Models.dll
+E:\Durga projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Service.dll
+E:\Durga projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Models.pdb
+E:\Durga projects\CMS_Api\CMS.Repository\bin\Debug\net6.0\CMS.Service.pdb
+E:\Durga projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.AssemblyReference.cache
+E:\Durga projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Durga projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.AssemblyInfoInputs.cache
+E:\Durga projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.AssemblyInfo.cs
+E:\Durga projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.CoreCompileInputs.cache
+E:\Durga projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.CopyComplete
+E:\Durga projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.dll
+E:\Durga projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\refint\CMS.Repository.dll
+E:\Durga projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\CMS.Repository.pdb
+E:\Durga projects\CMS_Api\CMS.Repository\obj\Debug\net6.0\ref\CMS.Repository.dll

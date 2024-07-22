@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="CMSAPI20220630003516" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\adnan\\CMS_Api\\CMS\.API\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

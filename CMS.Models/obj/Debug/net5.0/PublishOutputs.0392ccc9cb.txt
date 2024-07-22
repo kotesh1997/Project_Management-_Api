@@ -1,0 +1,4 @@
+D:\cmsapi\CMS.Models\bin\Debug\net5.0\publish\CMS.Models.dll
+D:\cmsapi\CMS.Models\bin\Debug\net5.0\publish\CMS.Models.deps.json
+D:\cmsapi\CMS.Models\bin\Debug\net5.0\publish\CMS.Models.pdb
+D:\cmsapi\CMS.Models\bin\Debug\net5.0\publish\Newtonsoft.Json.dll

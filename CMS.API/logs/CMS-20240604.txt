@@ -1,0 +1,193 @@
+2024-06-04T11:22:28.9855823+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T11:22:29.0545328+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T11:22:29.0617511+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T11:36:57.7459341+05:30 8000000d-0003-f900-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (1326): The user name or password is incorrect.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1082
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments() in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 61
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments() in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 44
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:1326,State:0,Class:20 (275b05f9)
+2024-06-04T11:37:29.7284366+05:30 8000006e-0001-fb00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (1326): The user name or password is incorrect.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1082
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments() in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 61
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments() in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 44
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:1326,State:0,Class:20 (275b05f9)
+2024-06-04T11:44:16.6250296+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T11:44:16.7768406+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T11:44:16.8133558+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T11:45:35.8464097+05:30 800000fb-0001-ff00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1082
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments() in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 61
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments() in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 44
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20 (0badc7b7)
+2024-06-04T11:47:14.1106501+05:30 80000130-0002-fc00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1082
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments() in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 61
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments() in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 44
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20 (0badc7b7)
+2024-06-04T11:58:16.7346620+05:30 80000002-0002-f500-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1082
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments() in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 61
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments() in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 44
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20 (0badc7b7)
+2024-06-04T12:06:15.6035307+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T12:06:15.6257142+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T12:06:15.6319869+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T12:08:21.2052727+05:30 8000005d-0000-fc00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1082
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments() in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 61
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments() in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 44
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20 (0badc7b7)
+2024-06-04T12:08:58.0437206+05:30 80000038-0002-f600-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (1326): The user name or password is incorrect.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1082
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments() in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 61
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments() in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 44
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:1326,State:0,Class:20 (275b05f9)
+2024-06-04T13:14:17.9687255+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T13:14:18.0266706+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T13:14:18.0729577+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T15:02:08.2635874+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T15:02:08.2861133+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T15:02:08.2927714+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T16:21:33.8456478+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T16:21:33.8837736+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T16:21:33.9241420+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T16:26:16.1641357+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T16:26:16.4981856+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T16:26:16.7761303+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T16:32:31.8512606+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T16:32:31.8976143+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T16:32:31.9261832+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T16:39:14.8421146+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T16:39:14.8878781+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T16:39:14.8985956+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T17:01:06.8529587+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T17:01:06.8953101+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T17:01:06.9137175+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T17:09:14.2510301+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T17:09:14.2885378+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T17:09:14.3022825+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T17:24:52.7708324+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T17:24:52.7874010+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T17:24:52.7946659+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-04T17:49:45.1084198+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-04T17:49:45.1451885+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-04T17:49:45.1523197+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)

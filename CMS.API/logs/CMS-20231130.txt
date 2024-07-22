@@ -1,0 +1,104 @@
+2023-11-30T12:47:05.0766060+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T12:47:05.1314078+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T12:47:05.1388140+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T12:47:28.8683756+05:30 80000087-0000-f500-b63f-84710c7967bb [ERR] Connection ID ""17654110540902957190"", Request ID ""80000087-0000-f500-b63f-84710c7967bb"": An unhandled exception was thrown by the application. (bf316047)
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/AddTest" for actions - CMS.API.Controllers.AddTestController.AddTest (CMS.API),CMS.API.Controllers.AddTestController.AddUpdateTest (CMS.API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2023-11-30T12:48:24.8111676+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T12:48:24.8392448+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T12:48:24.8501704+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T12:50:05.5561373+05:30 800000f8-0001-fc00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.InvalidOperationException: Unable to resolve service for type 'CMS.Repository.IAddTestRepository' while attempting to activate 'CMS.API.Controllers.AddTestController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method10(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-11-30T12:51:35.0030740+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T12:51:35.0221712+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T12:51:35.0258961+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T12:54:00.1394790+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T12:54:00.1600617+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T12:54:00.1644432+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T13:10:25.2229147+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T13:10:25.2358877+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T13:10:25.2390903+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T13:15:50.8723764+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T13:15:50.8906512+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T13:15:50.8953227+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T13:17:18.0903205+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T13:17:18.1053674+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T13:17:18.1097481+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T13:20:39.3337579+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T13:20:39.3591020+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T13:20:39.3686356+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T13:21:56.8170622+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T13:21:56.8287687+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T13:21:56.8324561+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T13:24:01.2270150+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T13:24:01.2398550+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T13:24:01.2431092+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T13:26:33.0314618+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T13:26:33.0527780+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T13:26:33.0608534+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T14:10:52.2819769+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T14:10:52.3337753+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T14:10:52.3387638+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T14:13:16.4510915+05:30 80000010-0002-f700-b63f-84710c7967bb [INF] Test added Successfull (66289cc4)
+2023-11-30T14:24:09.8893879+05:30 8000017a-0003-fb00-b63f-84710c7967bb [INF] Test added Successfull (66289cc4)
+2023-11-30T14:25:02.9606311+05:30 8000010b-0001-fc00-b63f-84710c7967bb [INF] Add test updated Successfull (912a50b5)
+2023-11-30T14:25:34.4707510+05:30 8000001a-0002-f700-b63f-84710c7967bb [INF] Add test updated Successfull (912a50b5)
+2023-11-30T14:29:00.6358888+05:30 80000109-0002-ff00-b63f-84710c7967bb [INF] Add test updated Successfull (912a50b5)
+2023-11-30T14:29:42.0516501+05:30 80000093-0000-f500-b63f-84710c7967bb [INF] Add test updated Successfull (912a50b5)
+2023-11-30T14:33:55.8006825+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T14:33:55.8406864+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T14:33:55.8436395+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T14:38:04.5060311+05:30 80000099-0000-f500-b63f-84710c7967bb [INF] Deleted Successfully (61b385be)
+2023-11-30T16:04:03.9520883+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T16:04:03.9697006+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T16:04:03.9771819+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T16:04:45.4101631+05:30 800000a9-0001-f400-b63f-84710c7967bb [ERR] Exception at AddUpdateTest Method: System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)
+ ---> System.ComponentModel.Win32Exception (233): No process is on the other end of the pipe.
+   at CMS.Service.Dapperr.Execute(String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 112
+   at CMS.Repository.AddTestRepository.AddUpdateTest(AddTest test) in F:\projects\CMS_Api\CMS.Repository\AddTestRepository.cs:line 63
+   at CMS.API.Controllers.AddTestController.AddUpdateTest(AddTest addTest) in F:\projects\CMS_Api\CMS.API\Controllers\AddTestController.cs:line 79
+ClientConnectionId:34e85053-8ef7-491c-9112-2cc00504b203
+Error Number:233,State:0,Class:20 (a9d59ebd)
+2023-11-30T16:06:11.3275581+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-30T16:06:11.3494658+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-30T16:06:11.3565273+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-30T17:05:06.4157098+05:30 8000011b-0002-ff00-b63f-84710c7967bb [ERR] Exception at AddUpdateTest Method: System.Data.SqlClient.SqlException (0x80131904): Cannot open database "Crm" requested by the login. The login failed.
+Login failed for user 'DESKTOP-JTQ059H\Durga'.
+   at CMS.Service.Dapperr.Execute(String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 112
+   at CMS.Repository.AddTestRepository.AddUpdateTest(AddTest test) in F:\projects\CMS_Api\CMS.Repository\AddTestRepository.cs:line 63
+   at CMS.API.Controllers.AddTestController.AddUpdateTest(AddTest addTest) in F:\projects\CMS_Api\CMS.API\Controllers\AddTestController.cs:line 79
+ClientConnectionId:48e478b2-9cf6-4347-999c-200f87bcfdf0
+Error Number:4060,State:1,Class:11 (79e6e441)
+2023-11-30T17:06:15.7675734+05:30 80000004-0000-f000-b63f-84710c7967bb [ERR] Exception at AddUpdateTest Method: System.Data.SqlClient.SqlException (0x80131904): Cannot open database "Crm" requested by the login. The login failed.
+Login failed for user 'DESKTOP-JTQ059H\Durga'.
+   at CMS.Service.Dapperr.Execute(String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 112
+   at CMS.Repository.AddTestRepository.AddUpdateTest(AddTest test) in F:\projects\CMS_Api\CMS.Repository\AddTestRepository.cs:line 63
+   at CMS.API.Controllers.AddTestController.AddUpdateTest(AddTest addTest) in F:\projects\CMS_Api\CMS.API\Controllers\AddTestController.cs:line 79
+ClientConnectionId:4d07d469-7909-4b9f-bedc-3e8e1b1b0b87
+Error Number:4060,State:1,Class:11 (ffada00d)
+2023-11-30T17:06:30.8453527+05:30 800000ab-0001-f400-b63f-84710c7967bb [ERR] Exception at AddUpdateTest Method: System.Data.SqlClient.SqlException (0x80131904): Cannot open database "Crm" requested by the login. The login failed.
+Login failed for user 'DESKTOP-JTQ059H\Durga'.
+   at CMS.Service.Dapperr.Execute(String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 112
+   at CMS.Repository.AddTestRepository.AddUpdateTest(AddTest test) in F:\projects\CMS_Api\CMS.Repository\AddTestRepository.cs:line 63
+   at CMS.API.Controllers.AddTestController.AddUpdateTest(AddTest addTest) in F:\projects\CMS_Api\CMS.API\Controllers\AddTestController.cs:line 79
+ClientConnectionId:5f7cccd4-3599-48d9-8087-cee530ba485c
+Error Number:4060,State:1,Class:11 (2188ab45)
+2023-11-30T17:06:52.6274927+05:30 8000011d-0002-ff00-b63f-84710c7967bb [INF] Add test updated Successfull (912a50b5)

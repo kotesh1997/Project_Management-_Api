@@ -1,0 +1,112 @@
+2023-11-15T18:22:32.9045517+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-15T18:22:32.9614913+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-15T18:22:32.9655813+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-15T18:23:22.7273797+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-11-15T18:23:22.7387379+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2023-11-15T18:23:22.7413074+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2023-11-15T18:25:42.7112886+05:30 8000000d-0003-fb00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure ''.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.RegisterationCRUD(List`1 registeration) in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 346
+   at CMS.API.Controllers.PatientsAppointmentsController.RegisterationCRUD(List`1 registeration) in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 434
+ClientConnectionId:edd5dc58-7022-4369-ba00-bac1cd18ac1d
+Error Number:2812,State:62,Class:16 (0671026c)
+2023-11-15T18:25:55.3590911+05:30 8000000b-0003-f900-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure ''.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.RegisterationCRUD(List`1 registeration) in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 346
+   at CMS.API.Controllers.PatientsAppointmentsController.RegisterationCRUD(List`1 registeration) in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 434
+ClientConnectionId:edd5dc58-7022-4369-ba00-bac1cd18ac1d
+Error Number:2812,State:62,Class:16 (0671026c)
+2023-11-15T18:26:29.0040010+05:30 8000000a-0001-fa00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure ''.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.RegisterationCRUD(List`1 registeration) in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 346
+   at CMS.API.Controllers.PatientsAppointmentsController.RegisterationCRUD(List`1 registeration) in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 434
+ClientConnectionId:edd5dc58-7022-4369-ba00-bac1cd18ac1d
+Error Number:2812,State:62,Class:16 (0671026c)
+2023-11-15T18:26:37.9390889+05:30 80000007-0000-fd00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure ''.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.RegisterationCRUD(List`1 registeration) in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 346
+   at CMS.API.Controllers.PatientsAppointmentsController.RegisterationCRUD(List`1 registeration) in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 434
+ClientConnectionId:edd5dc58-7022-4369-ba00-bac1cd18ac1d
+Error Number:2812,State:62,Class:16 (0671026c)
+2023-11-15T18:27:32.7187269+05:30 80000009-0000-fd00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure ''.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1055
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.RegisterationCRUD(List`1 registeration) in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 346
+   at CMS.API.Controllers.PatientsAppointmentsController.RegisterationCRUD(List`1 registeration) in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 434
+ClientConnectionId:edd5dc58-7022-4369-ba00-bac1cd18ac1d
+Error Number:2812,State:62,Class:16 (0671026c)
+2023-11-15T18:28:35.0944395+05:30 8000000c-0001-fa00-b63f-84710c7967bb [INF] end (b0c485d7)
+2023-11-15T18:32:28.0675144+05:30 8000000d-0003-f900-b63f-84710c7967bb [INF] end (b0c485d7)
+2023-11-15T18:34:35.5597354+05:30 8000000b-0002-f900-b63f-84710c7967bb [INF] end (b0c485d7)
+2023-11-15T18:44:39.1901491+05:30 8000000f-0000-fd00-b63f-84710c7967bb [INF] end (b0c485d7)
+2023-11-15T18:44:55.5319468+05:30 80000011-0000-fd00-b63f-84710c7967bb [INF] end (b0c485d7)
+2023-11-15T18:47:06.5111150+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] end (b0c485d7)

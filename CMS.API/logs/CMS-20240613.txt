@@ -1,0 +1,43 @@
+2024-06-13T16:34:04.6130637+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-13T16:34:04.6877930+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-13T16:34:04.6942759+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-13T17:54:58.2497538+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-13T17:54:58.2619896+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-13T17:54:58.2651613+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-13T17:56:20.0057300+05:30 8000002a-0003-f800-b63f-84710c7967bb [ERR] Exception at Login Method: System.FormatException: String '06/14/2024 00:00:00' was not recognized as a valid DateTime.
+   at CMS.Repository.PatientsAppointmentsRepository.<>c.<GetAllAppointments>b__6_0(AppointmentDetails appointment) in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 89
+   at System.Linq.Enumerable.WhereListIterator`1.MoveNext()
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source, Func`2 predicate)
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments() in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 90
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments() in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 44 (a44f0f4b)
+2024-06-13T17:57:08.1910360+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-13T17:57:08.2124514+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-13T17:57:08.2163185+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-13T17:58:19.5978766+05:30 8000008c-0001-fe00-b63f-84710c7967bb [ERR] Exception at Login Method: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1082
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at CMS.Service.Dapperr.GetAll[T](String sp, DynamicParameters parms, CommandType commandType) in F:\projects\CMS_Api\CMS.Service\Dapper.cs:line 45
+   at CMS.Repository.PatientsAppointmentsRepository.GetAllAppointments() in F:\projects\CMS_Api\CMS.Repository\PatientsAppointmentsRepository.cs:line 83
+   at CMS.API.Controllers.PatientsAppointmentsController.GetAllAppointments() in F:\projects\CMS_Api\CMS.API\Controllers\PatientsAppointmentsController.cs:line 44
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20 (f5b94452)
+2024-06-13T18:01:00.5617778+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-13T18:01:00.5744732+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-13T18:01:00.5773928+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
+2024-06-13T18:03:05.8906103+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-06-13T18:03:05.9069301+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-06-13T18:03:05.9264477+05:30  [INF] Content root path: "F:\projects\CMS_Api\CMS.API" (b5d60022)
